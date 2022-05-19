@@ -2,7 +2,7 @@
 
 ## Preview
 
-![Preview](glassmorphism.png)
+![Preview](assets/img/glassmorphism.png)
 
 # Site
 
